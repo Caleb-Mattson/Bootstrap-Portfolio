@@ -1,0 +1,52 @@
+body {
+    background-image: url("../images/bground.png");
+}
+
+a {
+    color: grey;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#navBar {
+    background: white;
+    width: 100%;
+    height: auto;
+}
+
+#nameTitle {
+    padding-top: 20px;
+}
+
+#textBackground {
+    background: white;
+    border-radius: 8px;
+    border: 1px solid grey;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+#portBoi {
+    margin-top: 25px;
+    background: white;
+    padding: 20px;
+}
+
+#aboutMe {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#contact {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* portfolio image class */
+.colonelSanders {
+    box-sizing: border-box;
+    float: left;
+    position: relative;
+    padding: 20px;
+}
